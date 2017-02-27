@@ -27,9 +27,14 @@ Version 3.0
 
 ## Captures d'écran
 
-![alt tag](https://github.com/NicolasOrlandini/Paint-macOS/tree/master/Manuel/img/imageChargee.PNG)
+Charger une image : 
 
-![alt tag](https://github.com/NicolasOrlandini/Paint-macOS/tree/master/Manuel/img/OutilsDeDessinV2.PNG)
+![Panel outils](/Manuel/img/Open.PNG)
+
+Une fois l'image chargée :
+
+![Vue d'ensemble](/Manuel/img/imageChargee.PNG)
+
 
 ## Configuration requise  
 
